@@ -1,0 +1,8 @@
+.align-items-center{
+	height: 100vh;
+}
+
+.bg-usuario{
+	background: url(../img/login.jpg) no-repeat top center;
+	background-size: cover;
+}
